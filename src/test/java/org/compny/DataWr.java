@@ -32,6 +32,6 @@ public class DataWr {
 		FileOutputStream str = new FileOutputStream(f);
 		
 		w.write(str);
-		
+		System.out.println("test1");
 	}
 }
