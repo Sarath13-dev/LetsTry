@@ -33,5 +33,7 @@ public class DataWr {
 		
 		w.write(str);
 		System.out.println("test1");
+		
+		System.out.println("test2345");
 	}
 }
